@@ -11,6 +11,7 @@ Future-styled and interactive dropdown by CSS only. Move your mouse over it and 
 - **[http://codepen.io/](http://codepen.io/) Picked Pen**
 - **Over 3000 views in first night!**
 - **Over 160 hearts!**
+- 被國外網友不斷轉載討論..
 
 [Sam Webb](http://codepen.io/samwebb/) says:
 > This is amazing. You did a really good job with this.
